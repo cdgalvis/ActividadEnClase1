@@ -1,0 +1,12 @@
+        1 - Crear una rama                  
+        2 - Cambiar a la rama nueva 
+        3 - Crear un archivo nuevo 
+        4 - subir el archivo nuevo   git push origin NombreRama
+
+
+
+        1 - Estar en la rama dev       
+        2 - Crear un archivo con su nombre 
+        3 - subirlo             git push origin dev
+        4 - git pull origin dev
+
